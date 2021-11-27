@@ -1,4 +1,4 @@
 # periodismo-datos-II
 
-## Las actividades dirigidas de la asignatura 
-### Periodismo de datos II
+## Las Actividades Dirigidas de la asignatura ### Periodismo de datos II
+
