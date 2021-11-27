@@ -10,7 +10,7 @@ La URL de la noticia [ El paro juvenil se enquista: España es el único país e
 También tiene un buen diseño del web, el típico tres columnas. Pero a mí me parece que la columna derecha para las publicidades es demasiado ancha, por eso veo un poco estrecho la columna del artículo. 
 
 ## Sobre el artículo 
-El título de artículo * El paro juvenil se enquista: España es el único país europeo que no consigue bajar del 30%* me parece llama mucha atención al público, despierta la curiosidad de las personas y quieren ver el contenido.
+El título de artículo * El paro juvenil se enquista: España es el único país europeo que no consigue bajar del 30%* me parece llama mucha atención al público, despierta la **curiosidad** de las personas y quieren ver el contenido.
 
 La estructura del contenido del artículo es profesional, el contenido es informativo usando un lenguaje dinámica, así que los lectores pueden leer fácilmente y rápidamente.
 
@@ -23,7 +23,7 @@ DESDE EL INICIO DE LA PANDEMIA](https://e00-elmundo.uecdn.es/elmundo/2021/grafic
 
 Usa diferentes colores en el gráfico para diferentes niveles de datos, eso facilita contener información para los lectores. 
 
-El siguiente ha utilizado el mapa como la visualización de datos, con diferentes colores expresando diferentes niveles de datos, añadiendo indicadores de cada color como elementos de composición, para facilitar la compresión de los lectores.
+El siguiente ha utilizado el mapa como la visualización de datos, con diferentes colores expresando diferentes niveles de datos, añadiendo **indicadores de cada color** como elementos de composición, para facilitar la compresión de los lectores.
 
 ![# PARO JUVENIL](https://phantom-elmundo.unidadeditorial.es/2696f6eefa4792f62ed2b6a4d823bafa/f/jpg/assets/multimedia/imagenes/2021/11/10/16365199153485.jpg)
 
