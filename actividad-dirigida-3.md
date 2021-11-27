@@ -36,8 +36,8 @@ Hice ligual con los numeros de tweets, según: editar celdas - transformaciones 
 #### Renombrar la faceta: 
 Renombré las facetas según: editar colomnas - renombrar esta columna 
 
-#### Fitro y Crear columnas
-Luego añadí el fitro, compruebé los datos y crear columnas de cuatro candidatos.
+#### Fitro y Transponer columnas
+Luego añadí el fitro, compruebé los datos y transponer/crear columnas de cuatro candidatos.
 ![imagenes](imagenes/openrefine2.jpeg)
 
 
