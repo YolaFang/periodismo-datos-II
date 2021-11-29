@@ -5,12 +5,13 @@
 ## Contraste respecto a España
 Hasta el 28 de octubre de 2021 la tasa de **fertilidad en adolescentes para Colombia** ha sido de 64.313, según los [datos correspondientes a 2019](https://databank.bancomundial.org/reports.aspx?source=2&series=SP.ADO.TFRT&country=COL) del [Banco Mundial](https://www.bancomundial.org/es/home) Mientras tanto, la cifra de **España es 72.558** (nacimientos por cada 1.000 mujeres entre **15 y 19** años de edad).
 
-<br>
+
 
 ### El siguiente se encuentra el gráfico de la taza de fertilidad 
+
 <br>
 
-![tasa-de-fertilidad ](actividad-dirigida-4/imagenes-de-ad-4/tasa-de-fertilidad.png)
+![tasa-de-fertilidad ](imagenes-de-ad-4/tasa-de-fertilidad.png)
 
 En Colombia, desde 1960 la tasa de fertilidad en adolescentes (aunque con un leve repunte en los años 90) ha bajado constantemente. A pesar de ello, los valores siguen resultando excesivos si los comparamos con los de España: la diferencia es enorme, y puede llegar a ser **10 veces superior.**
 
@@ -20,22 +21,23 @@ En Colombia, desde 1960 la tasa de fertilidad en adolescentes (aunque con un lev
 
 Según los datos del [Departamento Administrativo Nacional de Estadística de Colombia](https://www.dane.gov.co/index.php/estadisticas-por-tema/salud/nacimientos-y-defunciones/nacimientos/nacimientos-2020) en el año 2020 el número de nacimientos fue de 512.185 en total. De entre los cuales, **1.721** fueron de mujeres con edades entre *10 y 14 años*, y **43.744** de *15 a 19 años*.
 
-<br>
+
 
 ### El siguiente se muestra el gráfico de los nacimientos por grupo de edad en Colombia de 2020:
+
 <br>
 
-![grupo-de-edad ](actividad-dirigida-4/imagenes-de-ad-4/grupo-de-edad.png)
+![grupo-de-edad ](imagenes-de-ad-4/grupo-de-edad.png)
 
 El porcentaje en edades de **15 a 19 años** fue del *17,6%*, el de **10 a 14 años** fue del *0,7%*, y el porcentaje del embarazo en adolescentes, del **18,3%.**
 
 Con respecto a **los embarazos en las edades entre 15 y 19 años**, hemos analizado la situación de las madres, tanto residencial como a **nivel educativo**. Una gran parte de ellas reside en zonas rurales, y además no han recibido una educación suficiente.
 
 <br>
-<br>
+
+![nivel-educativo](imagenes-de-ad-4/nivel-educativo.png)
 
 
-![nivel-educativo ](actividad-dirigida-4/imagenes-de-ad-4/nivel-educativo.png)
 
 Este otro gráfico muestra que de entre las mujeres de 15 a 19 años, el 17,49% solo han recibido **educación preescolar**; el 25,17% han recibido **educación básica primaria**; el 33,75% han recibido **educación básica secundaria**; el 15,91% no han recibido *ningún educación*; solo el 2,48% han recibido **educación tecnológica profesional**; apenas el 0,71% han recibido **educación profesional**; y *nadie ha alcanzado una educación especializada ni tampoco un máster.*
 
@@ -53,6 +55,9 @@ Deben tener en cuenta que las consecuencias de los embarazos son muchas e irrepa
 
 La **educación de la sexualidad** para los adolescentes ya es un tema importante, necesario y urgente en el país. Por lo tanto, el gobierno, las organizaciones o las fundaciones deberían asumir la responsabilidad de fomentarla.
 
+<br>
+<br>
+<br>
 
 Fuente:
 <br>
@@ -64,4 +69,4 @@ DANE-Esdatística vital, Nacimientos 2020 - Preliminar, 2021
 <br>
 https://www.dane.gov.co/index.php/estadisticas-por-tema/salud/nacimientos-y-defunciones/nacimientos/nacimientos-2020
 
-
+<br>
