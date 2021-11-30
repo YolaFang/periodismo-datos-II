@@ -9,7 +9,7 @@ Deacergué los datos en DANE, después de hacer una limpieza en OpenRefine, sub�
 
 <br>
 
-![subir-archivo ](actividad-dirigida-4/imagenes-justificación/1-subir.png)
+![subir-archivo ](imagenes-justificación/1-subir.png)
 
 ### Revisa de nuevo
 Aunque ya había hecho una limpieza previo en OpenRefina, al subir el archivo en Datawrapper, he hecho una revisión también, los textos en negro y los números en zaul, si hay algun error, se ve en rojo; en mi caso, no había contenidos en rojo, pero he hecho una transponer en columnas, para adecuar mejor con el gráfico posteriormente. 
