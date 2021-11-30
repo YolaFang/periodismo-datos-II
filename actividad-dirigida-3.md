@@ -1,4 +1,4 @@
-# Justificación y AD3
+# AD3 y justificación
 
 ## La visualización del gráfico de actividad-dirigida-3
 
@@ -33,12 +33,12 @@ He tranforamdo la colomba de fecha según: editar celdas - transformaciones comu
 Hice ligual con los numeros de tweets, según: editar celdas - transformaciones comunes - a número
 ![imagenes](imagenes/openrefien1.jpeg)
 
-#### Renombrar la faceta: 
-Renombré las facetas según: editar colomnas - renombrar esta columna 
 
 #### Fitro y Transponer columnas
 Luego añadí el fitro, compruebé los datos y transponer/crear columnas de cuatro candidatos.
 ![imagenes](imagenes/openrefine2.jpeg)
 
+#### Renombrar la faceta: 
+Y después, renombré las facetas según: editar colomnas - renombrar esta columna 
 
 
