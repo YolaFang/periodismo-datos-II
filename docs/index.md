@@ -2,11 +2,10 @@
 
 Aquí se encuentran las actividades dirigidas de la asignatura Periodismo de datos II.
 
-### Markdown
+### Actividad Dirigida 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+[a](../actividad-dirigida-1.md)
+Syntax highlighted code bloc
 Syntax highlighted code block
 
 # Header 1
