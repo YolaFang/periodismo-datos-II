@@ -1,5 +1,5 @@
 ## ¡Hola! Bienvenid@s a mi página
-
+<br>
 Aquí se encuentran las actividades dirigidas de la asignatura Periodismo de datos II.
 
 <br>
