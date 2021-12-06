@@ -4,7 +4,7 @@ Aquí se encuentran las actividades dirigidas de la asignatura Periodismo de dat
 
 ### Actividad Dirigida 1
 
-[a](../actividad-dirigida-1.md)
+[a](actividad-dirigida-1.md)
 Syntax highlighted code bloc
 Syntax highlighted code block
 
