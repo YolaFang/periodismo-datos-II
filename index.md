@@ -163,7 +163,7 @@ Hasta el 28 de octubre de 2021 la tasa de **fertilidad en adolescentes para Colo
 
 <br>
 
-![tasa-de-fertilidad ](imagenes-de-ad-4/tasa-de-fertilidad.png)
+![tasa-de-fertilidad ](actividad-dirigida-4/imagenes-de-ad-4/tasa-de-fertilidad.png)
 
 En Colombia, desde 1960 la tasa de fertilidad en adolescentes (aunque con un leve repunte en los años 90) ha bajado constantemente. A pesar de ello, los valores siguen resultando excesivos si los comparamos con los de España: la diferencia es enorme, y puede llegar a ser **10 veces superior.**
 
@@ -179,7 +179,7 @@ Según los datos del [Departamento Administrativo Nacional de Estadística de Co
 
 <br>
 
-![grupo-de-edad ](imagenes-de-ad-4/grupo-de-edad.png)
+![grupo-de-edad ](actividad-dirigida-4/imagenes-de-ad-4/grupo-de-edad.png)
 
 El porcentaje en edades de **15 a 19 años** fue del *17,6%*, el de **10 a 14 años** fue del *0,7%*, y el porcentaje del embarazo en adolescentes, del **18,3%.**
 
@@ -187,7 +187,7 @@ Con respecto a **los embarazos en las edades entre 15 y 19 años**, hemos analiz
 
 <br>
 
-![nivel-educativo](imagenes-de-ad-4/nivel-educativo.png)
+![nivel-educativo](actividad-dirigida-4/imagenes-de-ad-4/nivel-educativo.png)
 
 
 
