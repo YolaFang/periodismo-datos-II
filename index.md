@@ -5,7 +5,8 @@ Aquí se encuentran las actividades dirigidas de la asignatura Periodismo de dat
 <br>
 <br>
 
-# Actividad Dirigida 1
+# [Actividad Dirigida 1](actividades-html/actividad-dirigida-1.html)
+
 <br>
 
 # Las visualizaciones más interesantes de 2021
