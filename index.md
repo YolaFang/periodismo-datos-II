@@ -51,7 +51,7 @@ Por ejemplo, las publicaciones en Instagram, fotos con un buen diseño gráfico,
 # Actividad Dirigida 2
 <br>
 # La visualización de datos en la noticia *el paro juvenil español*
-
+<br>
 ## Sobre el web 
 La URL de la noticia [ El paro juvenil se enquista: España es el único país europeo que no consigue bajar del 30%](https://www.elmundo.es/economia/macroeconomia/2021/11/10/618a7c0321efa0ca218b45d7.html) no es muy conveniente ni para recordar ni para compartir, debido a tener una serie de números y letras super largos; pero como es un artículo del periódico *ElMundo*, a  la gente le compra, a pesar de que la URL es muy largo, la gente pincha en enlace al ver *elmundo* que está ubicado en la primera posición. 
 
@@ -101,7 +101,7 @@ Daniel Viaña, *ElMundo*, 11 de noviembre de 2021, https://www.elmundo.es/econom
 # Actividad Dirigida 3
 <br>
 # AD3 y justificación
-
+<br>
 ## La visualización del gráfico de actividad-dirigida-3
 
 En primer lugar, presento la visualización del gráfico lo que realicé con la herramienta Datawrapper: 
@@ -151,7 +151,7 @@ Y después, renombré las facetas según: editar colomnas - renombrar esta colum
 
 
 # El embarazo de adolescentes en Colombia 
-
+<br>
 **Los embarazos de adolescentes en Colombia** son un problema social. De acuerdo con la definición de la [Organización Mundial de la Salud](https://www.who.int/es/health-topics/adolescent-health#tab=tab_1) la edad de la adolescencia está comprendida **entre los 10 y los 19 años**. Analizaremos la situación de los embarazos en el rango de edad **entre 15 y 19 años**, aunque no hay que obviar que **1.721 niñas** de entre **10 y 14 años** quedaron embarazadas en el año 2020.
 
 ## Contraste respecto a España
