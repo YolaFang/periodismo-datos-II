@@ -9,7 +9,7 @@ Aquí se encuentran las actividades dirigidas de la asignatura Periodismo de dat
 
 <br>
 
-# Las visualizaciones más interesantes de 2021
+# Las visualizaciones más interesantes de 2021 [articulo completo](actividad-dirigida-1.md)
 <br>
 Hoy en día, todo el mundo se ha convertido en un mundo digital y de datos. El periodismo de datos también ha evaluado como desarrollo de la profesión como fruto de la época. 
 Aparte de recopilar y analizar los datos, la visualización de los datos son una parte imprescindible para la profesión de periodismo de datos. 
