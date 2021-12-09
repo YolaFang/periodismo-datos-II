@@ -41,7 +41,6 @@ España en el color **naranja profunda** presente un porcentaje del paro juvenil
 <br>
 
 # [Actividad Dirigida 3](actividad-dirigida-3.md)
-
 <br>
 
 ## La visualización del gráfico de actividad-dirigida-3
@@ -56,12 +55,10 @@ En primer lugar, presento la visualización del gráfico lo que realicé con la 
 
 # [Actividad Dirigida 4](actividad-dirigida-4/actividad-dirigida-4.md)
 <br>
-
 # El embarazo de adolescentes en Colombia 
 <br>
 **Los embarazos de adolescentes en Colombia** son un problema social. La cifra de los embarazos en adolescentes **entre 15 y 19 años** ha vuelto a subir en el año 2021, y ahy **1.721 niñas** de entre **10 y 14 años** quedaron embarazadas en el año 2020.
 
-<br>
 
 ![tasa-de-fertilidad ](actividad-dirigida-4/imagenes-de-ad-4/tasa-de-fertilidad.png)
 
