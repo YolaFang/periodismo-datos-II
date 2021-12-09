@@ -29,9 +29,7 @@ Aparte de recopilar y analizar los datos, la visualización de los datos son una
 
 <br>
 
-## Sobre el web 
-
-La URL de la noticia [ El paro juvenil se enquista: España es el único país europeo que no consigue bajar del 30%](https://www.elmundo.es/economia/macroeconomia/2021/11/10/618a7c0321efa0ca218b45d7.html) no es muy conveniente ni para recordar ni para compartir, debido a tener una serie de números y letras super largos; pero como es un artículo del periódico *ElMundo*, a  la gente le compra, a pesar de que la URL es muy largo, la gente pincha en enlace al ver *elmundo* que está ubicado en la primera posición. 
+España en el color **naranja profunda** presente un porcentaje del paro juvenil **muy alto**; Portugal, Italia y Grecia en el color **naranja claro**, significan que su porcentaje del paro juvenil también es **alto**, pero *más bajo que lo de España;* Alemania en el color **azul profundo**, muestra que su porcentaje del paro juvenil es **muy bajo**.
 
 
 ![# PARO JUVENIL](https://phantom-elmundo.unidadeditorial.es/2696f6eefa4792f62ed2b6a4d823bafa/f/jpg/assets/multimedia/imagenes/2021/11/10/16365199153485.jpg)
@@ -43,13 +41,12 @@ La URL de la noticia [ El paro juvenil se enquista: España es el único país e
 <br>
 
 # [Actividad Dirigida 3](actividad-dirigida-3.md)
-<br>
 
 <br>
 
 ## La visualización del gráfico de actividad-dirigida-3
 
-
+En primer lugar, presento la visualización del gráfico lo que realicé con la herramienta Datawrapper:
 ![imagenes](imagenes/candidatos-cantidad-tweets.png)
 
 [Ver más](actividad-dirigida-3.md)
@@ -60,11 +57,9 @@ La URL de la noticia [ El paro juvenil se enquista: España es el único país e
 # [Actividad Dirigida 4](actividad-dirigida-4/actividad-dirigida-4.md)
 <br>
 
-
 # El embarazo de adolescentes en Colombia 
 <br>
 **Los embarazos de adolescentes en Colombia** son un problema social. La cifra de los embarazos en adolescentes **entre 15 y 19 años** ha vuelto a subir en el año 2021, y ahy **1.721 niñas** de entre **10 y 14 años** quedaron embarazadas en el año 2020.
-
 
 <br>
 
